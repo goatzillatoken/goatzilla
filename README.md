@@ -12,6 +12,7 @@
 <h2>Downloads</h2>
 <h1>Windows</h1>
 <a href="https://github.com/goatzillatoken/goatzilla/blob/main/goatzilla.msi">Windows App (MSI)</a>
+</br>
 <a href="https://github.com/goatzillatoken/goatzilla/blob/main/setup.exe">Windows App (setup.exe)</a>
 <h1>Android</h1>
 <a href="https://github.com/goatzillatoken/goatzilla/blob/main/goatzilla.apk">Android Apk</a>

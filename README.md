@@ -11,10 +11,10 @@
 </ul>
 <h2>Downloads</h2>
 Github is the only source where you can get official Goatzilla downloads.
-<h1>Windows</h1>
+<h3>Windows</h3>
 <a href="https://github.com/goatzillatoken/goatzilla/blob/main/goatzilla.msi">Windows App (MSI)</a>
 </br>
 <a href="https://github.com/goatzillatoken/goatzilla/blob/main/setup.exe">Windows App (setup.exe)</a>
-<h1>Android</h1>
+<h3>Android</h3>
 <a href="https://github.com/goatzillatoken/goatzilla/blob/main/goatzilla.apk">Android Apk</a>
 

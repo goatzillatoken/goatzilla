@@ -10,6 +10,11 @@
 <li>Goatzilla D3 Chart: D3 chart will be prepared before on next update(Windows & Android)</li>
 </ul>
 <h2>Downloads</h2>
+<h1>Windows</h1>
+<a href="https://github.com/goatzillatoken/goatzilla/blob/main/goatzilla.msi">Windows App (MSI)</a>
+<a href="https://github.com/goatzillatoken/goatzilla/blob/main/setup.exe">Windows App (setup.exe)</a>
+<h1>Android</h1>
+<a href="https://github.com/goatzillatoken/goatzilla/blob/main/goatzilla.apk">Android Apk</a>
 
 
 Github is the only source where you can get official Goatzilla downloads.
